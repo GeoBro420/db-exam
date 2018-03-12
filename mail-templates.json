@@ -1,0 +1,16 @@
+{
+  "thankyou":{
+    "from": "Community Building <noreply@elhs.com>",
+    "to": "",
+    "subject": "Thank you!",
+    "text": "Our Community Building base app is designed to get developers started with user authenticated multiplayer applications.",
+    "html": "<div style='background-color:#ADD8E6;border-radius:5px'><table style='width:100%'><tr><td style='width:10px'></td><td><h1 style='color: #7c795d; font-family: 'Trocchi', serif; font-size: 45px; font-weight: normal; line-height: 48px; margin: 0;'>Community Building</h1></td><td></td></tr><tr><td></td><td><div style='font-size: 26px; font-weight: 300; color:#ff8c00; margin: 0 0 24px;'>Making a Better World</div></td><td></td></tr><tr><td></td><td><p style='color: #4c4a37; font-family: 'Source Sans Pro', sans-serif; font-size: 18px; line-height: 32px; margin: 0 0 24px;'>Thank you for taking the first step towards designing a new and better world. This base application can be used for IoT, Multiplayer Games, E-Commerce, Collaborative Forums, and more. Please share your development journey with me as you continue with your project!</p><p>Sincerely, <a href='https://www.linkedin.com/in/eisaman/' style='color: #ff9900; background: #fff4a3; text-decoration: none;'>Eric Eisaman</a></p><img src='https://cdn.glitch.com/4272601b-6b3d-49c1-af07-f8a21ddd5857%2Feddies.png' width='50px'></td><td></td></tr></table></div>"
+  }, 
+  "newhighscore":{
+    "from": "Community Building <noreply@elhs.com>",
+    "to": "",
+    "subject": "New High Score!",
+    "text": "A new high score has been achieved!",
+    "html": "<h1>Community Building</h1><p>A new high score has been achieved.</p>"
+  }
+}
